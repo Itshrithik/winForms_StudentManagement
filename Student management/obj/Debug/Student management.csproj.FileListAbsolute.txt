@@ -1,0 +1,10 @@
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\bin\Debug\Student management.exe.config
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\bin\Debug\Student management.exe
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\bin\Debug\Student management.pdb
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\obj\Debug\Student management.csproj.AssemblyReference.cache
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\obj\Debug\Student_management.Form1.resources
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\obj\Debug\Student_management.Properties.Resources.resources
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\obj\Debug\Student management.csproj.GenerateResource.cache
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\obj\Debug\Student management.csproj.CoreCompileInputs.cache
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\obj\Debug\Student management.exe
+D:\Programming\WIN FORMS\Student Attendance System\Student management\Student management\obj\Debug\Student management.pdb
